@@ -114,6 +114,7 @@ img {
   margin: 50px;
   padding: 4rem 3rem;
   box-shadow: var(--shadow);
+  color: white;
 }
 
 /* Footer */
